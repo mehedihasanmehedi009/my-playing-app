@@ -20,11 +20,11 @@ export const Footer = () => {
             >
               <span className="w-3 h-3 rounded-full bg-cyan-400" />
               <span>
-                Mehedi<span className="text-cyan-400">Dev</span>
+                Mehedi<span className="text-cyan-400">Dev</span><span>eloper</span>
               </span>
             </a>
             <p className="text-sm md:text-base text-slate-300">
-              © {new Date().getFullYear()} MehediDev. All rights reserved.
+              © {new Date().getFullYear()} MehediDeveloper. All rights reserved.
             </p>
           </div>
 

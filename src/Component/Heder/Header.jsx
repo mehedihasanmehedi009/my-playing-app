@@ -22,7 +22,7 @@ export const Header = () => {
           >
             <span className="w-2.5 h-2.5 md:w-3 md:h-3 rounded-full bg-cyan-400 animate-pulse" />
             <span>
-              Mehedi<span className="text-cyan-400">Dev</span>
+              Mehedi<span className="text-cyan-400">Dev</span><span>eloper</span>
             </span>
           </a>
 
@@ -52,7 +52,7 @@ export const Header = () => {
               href="#menu"
               className="px-5 py-2.5 rounded-xl text-base font-semibold bg-gradient-to-r from-cyan-400 to-pink-500 text-slate-950 hover:opacity-90 transition"
             >
-              Order Now
+                Resume
             </a>
           </div>
 
@@ -93,7 +93,7 @@ export const Header = () => {
               onClick={() => setMenuOpen(false)}
               className="mt-1 text-center px-3.5 py-2 rounded-xl text-xs sm:text-sm font-semibold bg-gradient-to-r from-cyan-400 to-pink-500 text-slate-950"
             >
-              Order Now
+              Resume
             </a>
           </div>
         )}
